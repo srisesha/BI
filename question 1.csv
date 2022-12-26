@@ -1,0 +1,20 @@
+label_in_english,app_id,signed_up_on,last_login_date,Sum of User Payout,Sum of GG revenue,life time difference,Life time,LTV 
+Additional Task,sikka,11/26/2022,11/26/2022,560,0,0,1,0
+Additional Task,sikka,11/26/2022,11/29/2022,560,0,3,4,0
+Apply for Loan,sikka,11/26/2022,11/26/2022,3500,6454,0,1,6454
+Complete Deposit,sikka,11/26/2022,11/29/2022,2000,0,3,4,0
+Complete Install,sikka,11/26/2022,11/26/2022,200,700,0,1,700
+Complete Install,sikka,11/26/2022,11/29/2022,200,700,3,4,2800
+Complete Registration,sikka,11/26/2022,11/26/2022,11600,24400,0,1,24400
+Complete Registration,sikka,11/26/2022,11/27/2022,10200,22200,1,2,44400
+Complete Registration,sikka,11/26/2022,11/28/2022,11400,24400,2,3,73200
+Complete Registration,sikka,11/26/2022,11/29/2022,12600,22250,3,4,89000
+Download,sikka,11/26/2022,11/26/2022,450,1427,0,1,1427
+Download,sikka,11/26/2022,11/29/2022,200,657,3,4,2628
+Open Account,sikka,11/26/2022,11/26/2022,7000,22000,0,1,22000
+Open Account,sikka,11/26/2022,11/27/2022,7000,22000,1,2,44000
+Open Account,sikka,11/26/2022,11/28/2022,7000,22000,2,3,66000
+Open Account,sikka,11/26/2022,11/29/2022,7000,22000,3,4,88000
+Register,sikka,11/26/2022,11/26/2022,1800,7000,0,1,7000
+Register,sikka,11/26/2022,11/27/2022,1000,3891,1,2,7782
+Register,sikka,11/26/2022,11/29/2022,900,3000,3,4,12000
